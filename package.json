@@ -1,0 +1,22 @@
+{
+  "name": "cecu-music",
+  "version": "1.0.0",
+  "description": "Cecu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@distube/spotify": "^1.6.1",
+    "@distube/yt-dlp": "^1.0.0",
+    "@distube/ytdl-core": "^4.16.12",
+    "discord.js": "^14.11.0",
+    "distube": "^4.2.0",
+    "lyrics-finder": "^21.7.0",
+    "mongoose": "^8.16.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
